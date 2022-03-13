@@ -1,0 +1,20 @@
+2022-03-13 21:17:07,405 INFO  [log] valid cutomer
+2022-03-13 21:17:12,735 INFO  [log] email,name
+2022-03-13 21:17:12,750 INFO  [log] customer id
+2022-03-13 21:17:12,750 INFO  [log] customer by id
+2022-03-13 21:17:12,752 INFO  [log] delete customer
+2022-03-13 21:17:12,763 INFO  [log] Status: FINISHED 
+2022-03-13 21:17:12,763 INFO  [log] TimeTaken: 2995
+2022-03-13 21:17:12,788 INFO  [log] Number of Steps executed is :4
+2022-03-13 21:17:13,842 INFO  [log]  4 and The Number of column are 3
+2022-03-13 21:17:13,863 INFO  [log]  akashshuri@gmail.com and akash and shuri
+2022-03-13 21:17:13,863 INFO  [log]  alexb@gmail.com and alex and kokkattu
+2022-03-13 21:17:13,867 INFO  [log]  arjun@gmail.com and arjun and hari
+2022-03-13 21:17:13,868 INFO  [log]  naveen@gmail.com and naveen and babu
+2022-03-13 21:17:17,106 INFO  [log] email,name
+2022-03-13 21:17:17,106 INFO  [log] customer id
+2022-03-13 21:17:17,106 INFO  [log] customer by id
+2022-03-13 21:17:17,106 INFO  [log] delete customer
+2022-03-13 21:17:17,117 INFO  [log] Status: FINISHED 
+2022-03-13 21:17:17,127 INFO  [log] TimeTaken: 3207
+2022-03-13 21:17:17,131 INFO  [log] Number of Steps executed is :4
